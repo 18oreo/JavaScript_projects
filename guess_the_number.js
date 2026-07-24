@@ -26,7 +26,7 @@ do {
      }
 
      else{
-        console.log("\n 🎉 Correct! You guessed the right number!");
+        console.log("\n  Correct! You guessed the right number!");
         console.log(`The original number was: ${randomNumber}`)
         
      }
